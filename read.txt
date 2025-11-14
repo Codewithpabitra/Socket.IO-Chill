@@ -1,0 +1,17 @@
+Socket.IO - Bidiresctional Communication in real time 
+
+- bidirectional connection - Client , Server connection
+
+## Importants :- 
+- connection (Client & Server)
+- Disconnect (Client & Server)
+- Emitting Events - Therory and Code 
+- Emitting Events - fundamentals of Socket to send the data to the servevr 
+
+
+
+
+
+
+
+
