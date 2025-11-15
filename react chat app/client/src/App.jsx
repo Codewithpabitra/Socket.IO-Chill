@@ -20,7 +20,7 @@ const App = () => {
     };
   }, [messages]);
 
-
+  
   const sendMessage = () => {
     if(messageInput.trim() !== '') {
       socket.emit('message', messageInput)
